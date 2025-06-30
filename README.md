@@ -28,4 +28,4 @@ Python 3.10 or higher is required.
 
 ## Disclaimer
 
-This repository does not contain any proprietary or confidential data. It is shared for academic and educational purposes only.
+This repository does not contain any proprietary or confidential data.
