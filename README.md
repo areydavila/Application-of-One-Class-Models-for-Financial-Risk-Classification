@@ -1,4 +1,4 @@
-# One-Class Models for Financial Risk Classification
+# One Class Models for Financial Risk Classification
 
 This repository contains the code used in the MSc thesis *Application of One Class Models for Financial Risk Classification*.
 
